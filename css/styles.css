@@ -1,0 +1,41 @@
+div {
+  background-color: #FEFFE4;
+
+}
+
+h1 {
+  margin: 0;
+
+}
+
+body {
+  margin: 0;
+}
+
+.middle-container {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.bottom-container {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+.top-cloud {
+
+}
+
+.bottom-cloud {
+
+}
+
+.a-programmer {
+
+}
+
+.mountain {
+
+}
